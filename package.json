@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://your-github-username.github.io/repository-name",
+  "homepage": "https://naikshreenivasa.github.io/courseera_course2",
   "eslintConfig": {
     "extends": [
       "react-app",
