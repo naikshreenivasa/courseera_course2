@@ -4,14 +4,14 @@ export const products = [
     name: "Snake Plant",
     price: 29.99,
     category: "Low Maintenance",
-    image: "https://images.unsplash.com/photo-1593691509543-c55fb32e8a76?w=500"
+    image: "https://images.unsplash.com/photo-1593691509543-c55fb32e8a76?auto=format&fit=crop&w=500&q=80"
   },
   {
     id: 2,
     name: "Monstera Deliciosa",
     price: 49.99,
     category: "Tropical",
-    image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=500"
+    image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=500&q=80"
   },
   {
     id: 3,

@@ -10,7 +10,7 @@ import ShoppingCart from './components/ShoppingCart';
 function App() {
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename="/courseera_course2">
         <div style={{ minHeight: '100vh' }}>
           <Routes>
             <Route path="/" element={<LandingPage />} />

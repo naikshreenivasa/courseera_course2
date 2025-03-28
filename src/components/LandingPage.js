@@ -6,8 +6,11 @@ const LandingPage = () => {
 
   return (
     <div className="landing-page" style={{
-      backgroundImage: 'url("https://images.unsplash.com/photo-1604762524889-3e2fcc145683?w=1920")',
+      backgroundImage: 'url("https://images.unsplash.com/photo-1604762524889-3e2fcc145683?auto=format&fit=crop&w=1920&q=80")',
       backgroundSize: 'cover',
+      backgroundPosition: 'center',
+      backgroundColor: 'rgba(0, 0, 0, 0.5)',
+      backgroundBlend: 'overlay',
       minHeight: '100vh',
       display: 'flex',
       flexDirection: 'column',
