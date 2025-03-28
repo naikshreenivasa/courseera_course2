@@ -6,7 +6,7 @@ const LandingPage = () => {
 
   return (
     <div className="landing-page" style={{
-      backgroundImage: 'url("/images/landing-bg.jpg")',
+      backgroundImage: 'url("https://images.unsplash.com/photo-1604762524889-3e2fcc145683?w=1920")',
       backgroundSize: 'cover',
       minHeight: '100vh',
       display: 'flex',

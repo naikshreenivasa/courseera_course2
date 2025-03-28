@@ -4,41 +4,41 @@ export const products = [
     name: "Snake Plant",
     price: 29.99,
     category: "Low Maintenance",
-    image: "/images/snake-plant.jpg"
+    image: "https://images.unsplash.com/photo-1593691509543-c55fb32e8a76?w=500"
   },
   {
     id: 2,
     name: "Monstera Deliciosa",
     price: 49.99,
     category: "Tropical",
-    image: "/images/monstera.jpg"
+    image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=500"
   },
   {
     id: 3,
     name: "Peace Lily",
     price: 24.99,
     category: "Air Purifying",
-    image: "/images/peace-lily.jpg"
+    image: "https://images.unsplash.com/photo-1593691509543-c55fb32e8a76?w=500"
   },
   {
     id: 4,
     name: "Spider Plant",
     price: 19.99,
     category: "Air Purifying",
-    image: "/images/spider-plant.jpg"
+    image: "https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=500"
   },
   {
     id: 5,
     name: "Fiddle Leaf Fig",
     price: 59.99,
     category: "Tropical",
-    image: "/images/fiddle-leaf-fig.jpg"
+    image: "https://images.unsplash.com/photo-1597055181300-b7e82e34b61f?w=500"
   },
   {
     id: 6,
     name: "ZZ Plant",
     price: 34.99,
     category: "Low Maintenance",
-    image: "/images/zz-plant.jpg"
+    image: "https://images.unsplash.com/photo-1620127807580-990c3b7f0517?w=500"
   }
 ];
