@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.cb782871.css",
-    "main.js": "/repository-name/static/js/main.106d4d71.js",
-    "index.html": "/repository-name/index.html",
-    "main.cb782871.css.map": "/repository-name/static/css/main.cb782871.css.map",
-    "main.106d4d71.js.map": "/repository-name/static/js/main.106d4d71.js.map"
+    "main.css": "/courseera_course2/static/css/main.cb782871.css",
+    "main.js": "/courseera_course2/static/js/main.106d4d71.js",
+    "index.html": "/courseera_course2/index.html",
+    "main.cb782871.css.map": "/courseera_course2/static/css/main.cb782871.css.map",
+    "main.106d4d71.js.map": "/courseera_course2/static/js/main.106d4d71.js.map"
   },
   "entrypoints": [
     "static/css/main.cb782871.css",
