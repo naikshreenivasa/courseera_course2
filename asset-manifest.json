@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/courseera_course2/static/css/main.cb782871.css",
-    "main.js": "/courseera_course2/static/js/main.1200aea0.js",
+    "main.js": "/courseera_course2/static/js/main.f8c9de68.js",
     "index.html": "/courseera_course2/index.html",
     "main.cb782871.css.map": "/courseera_course2/static/css/main.cb782871.css.map",
-    "main.1200aea0.js.map": "/courseera_course2/static/js/main.1200aea0.js.map"
+    "main.f8c9de68.js.map": "/courseera_course2/static/js/main.f8c9de68.js.map"
   },
   "entrypoints": [
     "static/css/main.cb782871.css",
-    "static/js/main.1200aea0.js"
+    "static/js/main.f8c9de68.js"
   ]
 }
