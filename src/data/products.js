@@ -11,7 +11,7 @@ export const products = [
     name: "Monstera Deliciosa",
     price: 49.99,
     category: "Tropical",
-    image: "https://images.unsplash.com/photo-1583416750470-965b2707b355?auto=format&fit=crop&w=500&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2YeMK1Jq9hNAv2A4Xt34wfFChJWGkr3xtAA&s"
   },
   {
     id: 3,
